@@ -23,6 +23,8 @@ let formValidation = () => {
 };
 
 
+
+
 let data={}
 
 let acceptData =()=>{
